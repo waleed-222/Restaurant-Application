@@ -9,7 +9,7 @@ Ristorante Amici is a Flutter-based mobile application designed to provide a sea
 - **Cost Page:** Displays the price of selected items.  
 
 ## Screenshots  
-(Add your screenshots here)  
+you will find screenshots at screenshots folder 
 
 ## Installation  
 1. Clone the repository:  
